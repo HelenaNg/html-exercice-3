@@ -1,0 +1,20 @@
+#redWord {
+    /*propriété suivi de la valeur (rgb couleur + précise)*/
+    color:red#f00;
+}
+
+#greenWord {
+    color:green;
+}
+
+#fontWeight {
+    font-weight:bold ;
+}
+
+#italic{
+    font-size: italic;
+}
+/*h1{
+    text-transform: uppercase;
+    font-variant: small-caps;
+}*/
